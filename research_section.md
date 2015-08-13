@@ -8,13 +8,13 @@
 ###Publications
 - Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2015). *On the importance of hydrological information to form neighborhood in regional frequency analysis*. (Unpublished)
 
-- Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2015). *On the prediction of extremes flood quantiles at ungauged locations with spatial copula*. (Submited)
+- Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2015). *On the prediction of extremes flood quantiles at ungauged locations with spatial copula*. (Submitted)
 
-- Durocher, M., Ribatet, M. & Ouarda, T.B.M.J. (2015). *Regional frequency analysis from approximate bayesian computing of max-stable processes*. (Submited)
+- Durocher, M., Ribatet, M. & Ouarda, T.B.M.J. (2015). *Regional frequency analysis from approximate bayesian computing of max-stable processes*. (Submitted)
 
-- Durocher, M., Lee, T. & Ouarda, T.B.M.J. (2015). *Hybrid signal detection approach for hydrometeorological variables combining EMD and cross-wavelet analysis*. International Journal of Climatology, doi:10.1002/joc.4444 (In press).
+- Durocher, M., Lee, T. & Ouarda, T.B.M.J. (2015). *Hybrid signal detection approach for hydrometeorological variables combining EMD and cross-wavelet analysis*. International Journal of Climatology. doi:10.1002/joc.4444
 
-- Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2015). *A nonlinear approach to regional flood frequency analysis using projection pursuit regression*. Journal of Hydrometeorology, doi:10.1175/JHM-D-14-0227.1 (In press).
+- Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2015). *A nonlinear approach to regional flood frequency analysis using projection pursuit regression*. Journal of Hydrometeorology. doi:10.1175/JHM-D-14-0227.1 
 
 - Lemieux, J., Forget, G., Brochu, O., Provencher, L., Cantin, G., Desbiens, C., ... & Durocher, M. (2014). *Evaluation of eligibility and recruitment in breast cancer clinical trials*. The Breast, 23(4), 385–392. doi:10.1016/j.breast.2014.02.002
 
