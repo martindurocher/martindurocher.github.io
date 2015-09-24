@@ -18,4 +18,4 @@
   martin.durocher3@gmail.com
 
 #### Curent position
-   Ph.d Student in water science (Expected end : September 2015)
+   Ph.d Student in water science. I am presently looking for a position.
