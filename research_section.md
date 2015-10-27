@@ -6,11 +6,6 @@
 - Codes avalaible on [github](https://github.com/martindurocher)
 
 ###Publications
-- Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2015). *On the importance of hydrological information to form neighborhood in regional frequency analysis*. (Unpublished)
-
-- Durocher, M., Ribatet, M. & Ouarda, T.B.M.J. (2015). *Regional frequency analysis from approximate bayesian computing of max-stable processes*. (Submitted)
-
-- Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2015). *On the prediction of extremes flood quantiles at ungauged locations with spatial copula*. Journal of Hydrology. (Under revision)
 
 - Durocher, M., Lee, T. & Ouarda, T.B.M.J. (2015). *Hybrid signal detection approach for hydrometeorological variables combining EMD and cross-wavelet analysis*. International Journal of Climatology. doi:10.1002/joc.4444
 

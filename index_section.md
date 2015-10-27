@@ -15,7 +15,7 @@
 ####email
 
 > martin.durocher@ete.inrs.ca <br>
-  martin.durocher3@gmail.com
+  martin.durocher@hotmail.com
 
 #### Curent position
-   Ph.d Student in water science. I am presently looking for a position.
+   Ph.d Student in water science
