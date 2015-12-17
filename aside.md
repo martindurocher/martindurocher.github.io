@@ -5,3 +5,4 @@
 [STAHY](http://www.stahy.org/) <br>
 [Ubuntu](http://www.ubuntu.com/) <br>
 [UdeS](http://www.usherbrooke.ca/) <br>
+[UQTR](http://www.uqtr.ca/) <br>

@@ -1,9 +1,4 @@
 <!-- Section -->
-###On the web
-
-- Follow me on [ResearchGate](http://www.researchgate.net/profile/Martin_Durocher)
-
-- Codes avalaible on [github](https://github.com/martindurocher)
 
 ###Publications
 
