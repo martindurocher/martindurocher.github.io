@@ -6,7 +6,7 @@ Innovation in computer science allows statisticians to develop more realistic mo
 My research aims to integrate recent statistical methods to applied fields. 
 I am interested in practical applications of nonparametric regression, multivariate data analysis, nonlinear time series, spatial statistics and extreme value theory.
 
-In currently working on the uprising topic of spatial copulas and its derivative tools.
+In currently working on goodness-of-fit test for spatial copula.
     
 <img src="files/niagara.jpg" alt='Niagara boat'
   style='width:360px;height:250px;float:right;'>
@@ -15,9 +15,9 @@ In currently working on the uprising topic of spatial copulas and its derivative
  
 You can contact me via
 
+-  &#109;&#97;&#114;&#116;&#105;&#110;&#46;&#100;&#117;&#114;&#111;&#99;&#104;&#101;&#114;&#64;&#117;&#113;&#114;&#116;&#46;&#99;&#97;&#10;&#10;
+
 - [ResearchGate](http://www.researchgate.net/profile/Martin_Durocher)
- 
-- [Twitter](https://twitter.com/martindurocher3)
 
 - [Github](https://github.com/martindurocher)
 
