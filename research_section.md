@@ -1,6 +1,8 @@
 <!-- Section -->
 
 ###Publications
+- Durocher, M., Chebana, F. & Ouarda T.B.M.J. (2016) *Delineation of homogenous regions using hydrological variables predicted by projection pursuit regression.* Hydrology and Earth System Sciences Discussions. [doi:10.5194/hess-2016-123](https://doi.org/10.5194/hess-2016-123).
+
 - Durocher, M., Chebana, F. & Ouarda T.B.M.J. (2016) *On the Prediction of Extreme Flood Quantiles at Ungauged Locations with Spatial Copula.* Journal of Hydrology 533, 523–32. [doi:10.1016/j.jhydrol.2015.12.029](https://doi.org/10.1016/j.jhydrol.2015.12.029).
 
 - Durocher, M., Lee, T. & Ouarda, T.B.M.J. (2015). *Hybrid signal detection approach for hydrometeorological variables combining EMD and cross-wavelet analysis*. International Journal of Climatology. [doi:10.1002/joc.4444](https://doi.org/10.1002/joc.4444)
