@@ -15,6 +15,10 @@
  
 ###Conferences and presentations
 
+- Durocher, M., Quessy, J.-F. (2016). *On the adaptation of the goodness-of-fit tests for copulas to spatial model: A simulation study and an application to the Meuse River*. Oral session, STAHY International Workshop 2016, Quebec, Canada.
+ 
+- Durocher, M. (2016). *Simulation d’évènements extrêmes avec dépendance spatiale*. Seventh Montreal Industries Problem Solving Workshop. Co-supervision and report, Montreal, Canada.
+
 - Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2014). *Improving prediction at ungauged basins with spatial copula framework*. Poster session, CRM-Canssi Workshop 2014, Montreal, Canada.
 
 - Durocher, M., Chebana, F. & Ouarda, T.B.M.J. (2014). *Projection pursuit regression : new points of view for predicting at ungauged basins*. Oral session, STAHY International Workshop 2014, Abu Dhabi, United Arab Emirates.
