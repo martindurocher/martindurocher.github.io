@@ -1,0 +1,59 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Contact Information</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              {{ site.title | escape }}
+            {% endif %}
+            </li>
+            <li><p><script type="text/javascript">
+<!--
+h='&#x75;&#x77;&#x61;&#116;&#x65;&#114;&#108;&#x6f;&#x6f;&#46;&#x63;&#x61;';a='&#64;';n='&#x6d;&#100;&#x75;&#114;&#x6f;&#x63;&#104;&#x65;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#x6d;&#100;&#x75;&#114;&#x6f;&#x63;&#104;&#x65;&#32;&#x61;&#116;&#32;&#x75;&#x77;&#x61;&#116;&#x65;&#114;&#108;&#x6f;&#x6f;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x61;</noscript></p></li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+          
+          <li>
+          <a href="https://www.researchgate.net/profile/Martin_Durocher"> 
+              <img src="{{ site.url }}/img/icon-researchGate.png" height="15" width="15"/>
+              <span class="username">Martin_Durocher</span></a>
+          </li>
+              
+          
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

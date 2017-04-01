@@ -4,7 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-A summary of my publications can be found below or on [Research Gate](https://www.researchgate.net/profile/Martin_Durocher) 
+![boat]({{ site.url }}/img/niagara.jpg)
+
+# Interest  
+
+Innovation in computer science allows statisticians to develop more realistic and flexible models for real world phenomena. 
+My research aims at integrating and validating new statistical methods to solve practical problems in hydrology. 
+I am currently involved in the improvement of the spatial modeling of hydrological variables and their predictions at ungauged basins. 
 
 # Publications
 
